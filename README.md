@@ -12,7 +12,7 @@
     &middot;
     <a href="https://github.com/TerniLabs/kaizer-music-player/issues/new?template=bug_report.md">Report a bug</a>
     &middot;
-    <a href="https://github.com/mkgp-dev/resume-makinator/issues/new?template=request_feature.md">Request a feature</a>
+    <a href="https://github.com/TerniLabs/kaizer-music-player/issues/new?template=request_feature.md">Request a feature</a>
   </p>
 </div>
 
