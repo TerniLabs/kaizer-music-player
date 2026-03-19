@@ -18,7 +18,7 @@
 
 ## Preview
 
-![kaizer_preview](assets/preview-v1-0-0.png)
+![kaizer_preview](assets/preview-v1-4-0.png)
 
 ## Features
 
